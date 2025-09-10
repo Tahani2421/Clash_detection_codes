@@ -1,0 +1,260 @@
+Name,Module Name,Activity Type Name,Scheduled Days,Scheduled Start Time,Scheduled End Time,Duration,Scheduled Weeks,Allocated Location Name,Planned Size,Real Size,Allocated Staff Name
+ACCO1116/Tutorial/01-05 (MAIB-A202) <03-07>,ACCO1116/Financial & Mgt Accounting/A/GM,Tutorial,Thursday,16:00:00,17:00:00,01:00:00,3-7,SL006,25,25,AFE5
+ACCO1116/Tutorial/01-05 (MAIB-A202) <08-14>,ACCO1116/Financial & Mgt Accounting/A/GM,Tutorial,Thursday,16:00:00,17:00:00,01:00:00,8-14,SL009,25,25,AFE5
+
+"ACCO1116/Tutorial/01-07 (MBAIB-A201) <3, 5, 7, 9-10, 12, 14>",ACCO1116/Financial & Mgt Accounting/A/GM,Tutorial,Tuesday,15:00:00,16:00:00,01:00:00,"3, 5, 7, 9-10, 12, 14",QA175,21,21,AFE6
+"ACCO1116/Tutorial/01-07 (MBAIB-A201) <4, 6>",ACCO1116/Financial & Mgt Accounting/A/GM,Tutorial,Tuesday,15:00:00,16:00:00,01:00:00,"4, 6",QA010,21,21,AFE6
+
+"BUSI1204/Tutorial/01-01 <03-07, 09-14>",BUSI1204/Personal & Prof Development/A/GM,Tutorial,Monday,16:00:00,18:00:00,02:00:00,"3-7, 9-14",QA063,32,31,IB14
+BUSI1204/Tutorial/01-01 <08>,BUSI1204/Personal & Prof Development/A/GM,Tutorial,Monday,16:00:00,18:00:00,02:00:00,8,QA239,32,31,IB14
+BUSI1710/Tutorial/01-06,BUSI1710/International Business Project/J/GM,Tutorial,Monday,16:00:00,17:00:00,01:00:00,19-30,QM167,11,11,IB14
+
+BUSI1204/Tutorial/01-03 (BABS-401),BUSI1204/Personal & Prof Development/A/GM,Tutorial,Monday,16:00:00,18:00:00,02:00:00,3-14,QA139,34,32,BMOL4
+BUSI1744/Workshop/02 (BABMGLE-6) <11-14>,BUSI1744/Managerial Strat & Ldrshp Dev/B/GM,Workshop,Monday,14:00:00,17:00:00,03:00:00,11-14,QA239,21,21,BMOL4
+
+BUSI1204/Tutorial/01-05 (BABLSCM-401),BUSI1204/Personal & Prof Development/A/GM,Tutorial,Monday,09:00:00,11:00:00,02:00:00,3-14,QM145,16,16,OSP2
+"BUSI1712/ITLab/01-03 (BABMK-503a, BABMK-502b)",BUSI1712/Project Planning & Management/B/GM,ITLab,Monday,09:00:00,11:00:00,02:00:00,19-30,D166 (Classroom/IT),21,32,OSP2
+
+BUSI1204/Tutorial/01-09 (BAIBL-401),BUSI1204/Personal & Prof Development/A/GM,Tutorial,Monday,16:00:00,18:00:00,02:00:00,3-14,11_2007 (Seminar),28,27,IB8
+BUSI1710/Tutorial/01-07,BUSI1710/International Business Project/J/GM,Tutorial,Monday,17:00:00,18:00:00,01:00:00,19-30,QM167,13,12,IB8
+
+BUSI1204/Tutorial/01-13 (BABMG-S404) <03-05>,BUSI1204/Personal & Prof Development/A/GM,Tutorial,Tuesday,13:00:00,15:00:00,02:00:00,3-5,QA175,29,26,OSP16
+"BUSI1746/Workshop/02 (BABMGLE-6) <35, 38>",BUSI1746/Final Year Project/C/GM,Workshop,Tuesday,14:00:00,17:00:00,03:00:00,"35, 38",QA139,17,21,OSP16
+
+BUSI1204/Tutorial/01-13 (BABMG-S404) <06-14>,BUSI1204/Personal & Prof Development/A/GM,Tutorial,Thursday,11:00:00,13:00:00,02:00:00,6-14,QA039,29,26,OSP16
+"BUSI1791/Lecture/01 (MSBA-J) <34-39, 41-45>",BUSI1791/Innovation Strategy/C/GM,Lecture,Thursday,11:00:00,12:00:00,01:00:00,"34-39, 41-45",KW302 (LT),90,58,OSP16
+BUSI1791/Lecture/01 (MSBA-J) <40>,BUSI1791/Innovation Strategy/C/GM,Lecture,Thursday,11:00:00,12:00:00,01:00:00,40,11_0004 (LT),90,58,OSP16
+BUSI1791/Tutorial/01-02 (MSBA-J102),BUSI1791/Innovation Strategy/C/GM,Tutorial,Thursday,12:00:00,13:00:00,01:00:00,34-45,Cooper 018,25,30,OSP16
+
+"BUSI1204/Tutorial/01-14 <03-07, 09-14>",BUSI1204/Personal & Prof Development/A/GM,Tutorial,Thursday,09:00:00,11:00:00,02:00:00,"3-7, 9-14",QM269,28,28,BMOL11
+BUSI1204/Tutorial/01-14 <08>,BUSI1204/Personal & Prof Development/A/GM,Tutorial,Thursday,09:00:00,11:00:00,02:00:00,8,SL109,28,28,BMOL11
+
+BUSI1204/Tutorial/01-15 <03-13>,BUSI1204/Personal & Prof Development/A/GM,Tutorial,Thursday,13:00:00,15:00:00,02:00:00,3-13,QA039,27,24,IES18
+BUSI1204/Tutorial/01-15 <14>,BUSI1204/Personal & Prof Development/A/GM,Tutorial,Thursday,13:00:00,15:00:00,02:00:00,14,D165 (Classroom/IT),27,24,IES18
+BUSI1692/Tutorial/01-3 (MAIB-J03),BUSI1692/International Entrepreneurship/B/GM,Tutorial,Thursday,13:00:00,14:00:00,01:00:00,19-30,QM245,27,26,IES18
+
+BUSI1204/Tutorial/01-16 <03-13>,BUSI1204/Personal & Prof Development/A/GM,Tutorial,Thursday,15:00:00,17:00:00,02:00:00,3-13,QA039,28,26,BMOL5
+BUSI1204/Tutorial/01-16 <14>,BUSI1204/Personal & Prof Development/A/GM,Tutorial,Thursday,15:00:00,17:00:00,02:00:00,14,D165 (Classroom/IT),28,26,BMOL5
+
+BUSI1204/Tutorial/01-4 (BABMG-J401) <19-22>,BUSI1204/Personal & Prof Development/B/GM,Tutorial,Tuesday,16:00:00,18:00:00,02:00:00,19-22,D166 (Classroom/IT),30,24,BMOL3
+BUSI1204/Tutorial/01-4 (BABMG-J401) <23-30>,BUSI1204/Personal & Prof Development/B/GM,Tutorial,Tuesday,16:00:00,18:00:00,02:00:00,23-30,QA274,30,24,BMOL3
+
+BUSI1271/Tutorial/01-2 (MAIB-A103),BUSI1271/Global Strategy: Analysis & Pr/C/GM,Tutorial,Thursday,10:00:00,11:00:00,01:00:00,34-45,QM368,30,36,IB6
+BUSI1271/Tutorial/01-3 (MAIB-J03),BUSI1271/Global Strategy: Analysis & Pr/B/GM,Tutorial,Thursday,10:00:00,11:00:00,01:00:00,19-30,11_2007 (Seminar),30,26,IB6
+
+BUSI1314/Tutorial/01-09 <13-14>,BUSI1314/Business Ethics/A/GM,Tutorial,Thursday,13:00:00,14:00:00,01:00:00,13-14,QA010,28,28,IES8
+"BUSI1314/Tutorial/01-09 <3-7, 9-11>",BUSI1314/Business Ethics/A/GM,Tutorial,Thursday,13:00:00,14:00:00,01:00:00,"3-7, 9-11",QA239,28,28,IES8
+"BUSI1314/Tutorial/01-09 <8, 12>",BUSI1314/Business Ethics/A/GM,Tutorial,Thursday,13:00:00,14:00:00,01:00:00,"8, 12",SL007,28,28,IES8
+"BUSI1692/Lecture/01-2 (SB) <34-39, 41-45>",BUSI1692/International Entrepreneurship/C/GM,Lecture,Thursday,13:00:00,14:00:00,01:00:00,"34-39, 41-45",KW302 (LT),90,25,IES8
+BUSI1692/Lecture/01-2 (SB) <40>,BUSI1692/International Entrepreneurship/C/GM,Lecture,Thursday,13:00:00,14:00:00,01:00:00,40,QA180 (LT),90,25,IES8
+
+BUSI1315/Tutorial/01-10 (BABMG-506),BUSI1315/Management Practice 2/B/GM,Tutorial,Tuesday,12:00:00,13:00:00,01:00:00,19-30,10_B006 (IT Lab/Classroom),27,26,OSP12
+BUSI1637/Tutorial/01-13 (SB),BUSI1637/Discover Project Management/A/GM,Tutorial,Tuesday,12:00:00,13:00:00,01:00:00,"3-12, 14",QM068,25,0,OSP12
+
+BUSI1318/Presentation/01,BUSI1318/Advanced Project Mngt/A/GM,Presentation,Tuesday,10:00:00,14:00:00,04:00:00,14,SL109,23,23,IB12
+BUSI1318/Workshop/01,BUSI1318/Advanced Project Mngt/A/GM,Workshop,Tuesday,09:00:00,11:00:00,02:00:00,3-13,SL109,23,23,IB12
+
+BUSI1319/ITLab/01-05,BUSI1319/FYP: Consultancy Project/D/GM,ITLab,Wednesday,15:00:00,16:00:00,01:00:00,27,KW216 (IT Lab),15,17,BMOL2
+BUSI1623/Lecture/01 (MALSCM),BUSI1623/Project Management/A/GM,Lecture,Wednesday,15:00:00,17:00:00,02:00:00,3-14,KW302 (LT),36,36,BMOL2
+
+BUSI1319/ITLab/01-07,BUSI1319/FYP: Consultancy Project/D/GM,ITLab,Wednesday,14:00:00,15:00:00,01:00:00,27,D235 (IT Lab),12,8,IES16
+BUSI1319/Tutorial/01-10 <03>,BUSI1319/FYP: Consultancy Project/D/GM,Tutorial,Wednesday,14:00:00,15:00:00,01:00:00,3,QM060,10,8,IES16
+BUSI1319/Tutorial/01-10 <04-14>,BUSI1319/FYP: Consultancy Project/D/GM,Tutorial,Wednesday,14:00:00,15:00:00,01:00:00,4-14,SL109,10,8,IES16
+BUSI1319/Tutorial/01-10 <19-30>,BUSI1319/FYP: Consultancy Project/D/GM,Tutorial,Wednesday,14:00:00,15:00:00,01:00:00,19-30,QM368,10,8,IES16
+
+BUSI1319/Lecture/01 <11>,BUSI1319/FYP: Consultancy Project/D/GM,Lecture,Wednesday,13:00:00,14:00:00,01:00:00,11,KW303 (LT),130,130,IB12
+"BUSI1319/Lecture/01 <3-4, 6-10, 12-14, 19-30>",BUSI1319/FYP: Consultancy Project/D/GM,Lecture,Wednesday,13:00:00,14:00:00,01:00:00,"3-4, 6-10, 12-14, 19-30",11_0004 (LT),130,130,IB12
+
+BUSI1319/Tutorial/01-11 (BAIB-601) <03-14>,BUSI1319/FYP: Consultancy Project/D/GM,Tutorial,Wednesday,10:00:00,11:00:00,01:00:00,3-14,QA239,19,21,IB7
+BUSI1319/Tutorial/01-11 (BAIB-601) <19-30>,BUSI1319/FYP: Consultancy Project/D/GM,Tutorial,Wednesday,10:00:00,11:00:00,01:00:00,19-30,QA175,19,21,IB7
+
+BUSI1322/Tutorial/01-01 (SB),BUSI1322/Innovation in Action/A/GM,Tutorial,Wednesday,09:00:00,10:00:00,01:00:00,3-14,D165 (Classroom/IT),30,0,IES18
+BUSI1326/Tutorial/01-05 (SB),BUSI1326/Fundamentals of Entrpreneurshi/A/GM,Tutorial,Wednesday,09:00:00,10:00:00,01:00:00,3-14,QM268,30,0,IES18
+
+BUSI1324/Tutorial/01-03 (BABMK-604),BUSI1324/Managing Strategy/A/GM,Tutorial,Monday,13:00:00,15:00:00,02:00:00,3-14,QA220,31,31,OSP4
+BUSI1819/Tutorial 01-06 (MAIB-S06),BUSI1819/International Busi' Simulation/B/GM,Tutorial,Monday,13:00:00,15:00:00,02:00:00,19-30,SL105,22,20,OSP4
+
+"BUSI1324/Tutorial/01-04 (BABLTM-6, BABLSCM-6) <03-10>",BUSI1324/Managing Strategy/A/GM,Tutorial,Monday,14:00:00,16:00:00,02:00:00,3-10,QA239,29,29,OSP17
+"BUSI1324/Tutorial/01-04 (BABLTM-6, BABLSCM-6) <11-14>",BUSI1324/Managing Strategy/A/GM,Tutorial,Monday,14:00:00,16:00:00,02:00:00,11-14,QM369,29,29,OSP17
+OPER1027/Tutorial/01-11 (BABMK-502a) <19-30>,OPER1027/Operations Mngt/D/GM,Tutorial,Monday,14:00:00,15:00:00,01:00:00,19-30,QA038,22,22,OSP17
+
+BUSI1324/Tutorial/01-05 (CDE),BUSI1324/Managing Strategy/A/GM,Tutorial,Wednesday,16:00:00,18:00:00,02:00:00,3-14,11_2017 (Seminar),31,31,SA10
+RESE1170/Tutorial/01-11 <19-25>,RESE1170/Business Research Methods/B/GM,Tutorial,Wednesday,16:00:00,18:00:00,02:00:00,19-25,QA138,21,22,SA10
+RESE1170/Tutorial/01-11 <30>,RESE1170/Business Research Methods/B/GM,Tutorial,Wednesday,16:00:00,18:00:00,02:00:00,30,11_2017 (Seminar),21,22,SA10
+
+BUSI1324/Tutorial/01-14 (SB) <12>,BUSI1324/Managing Strategy/A/GM,Tutorial,Wednesday,14:00:00,16:00:00,02:00:00,12,QA044,30,0,OSP4
+"BUSI1324/Tutorial/01-14 (SB) <3-11, 13-14>",BUSI1324/Managing Strategy/A/GM,Tutorial,Wednesday,13:00:00,15:00:00,02:00:00,"3-11, 13-14",11_2006 (Seminar),30,0,OSP4
+BUSI1710/Tutorial/01-08 (MAIB-A204b),BUSI1710/International Business Project/U/GM,Tutorial,Wednesday,13:00:00,14:00:00,01:00:00,3-14,10_B004 (Classroom),13,13,OSP4
+BUSI1819/Tutorial 01-03 (MAIB-S04),BUSI1819/International Busi' Simulation/B/GM,Tutorial,Wednesday,15:00:00,17:00:00,02:00:00,19-30,QA139,23,21,OSP4
+
+"BUSI1326/Lecture/01-1 (BABEI-5, BABLTM-5, BABPSCM-5)",BUSI1326/Fundamentals of Entrpreneurshi/A/GM,Lecture,Tuesday,14:00:00,15:00:00,01:00:00,3-14,QA280 (LT),65,63,IES3
+BUSI1741/Workshop/02  (BABMGLE-501),BUSI1741/Fundamentals of Entrepre/Innov/B/GM,Workshop,Tuesday,14:00:00,17:00:00,03:00:00,23-30,QA138,18,18,IES3
+
+BUSI1327/Tutorial/01-05 (BABMG-510),BUSI1327/Innov in Competitive Environme/B/GM,Tutorial,Thursday,13:00:00,14:00:00,01:00:00,19-30,QM269,29,31,IES5
+BUSI1692/Lecture/01-2 (MAIB-S),BUSI1692/International Entrepreneurship/A/GM,Lecture,Thursday,13:00:00,14:00:00,01:00:00,3-14,KW002 (LT),66,62,IES5
+
+BUSI1591/Lecture/01 (MALSCM),"BUSI1591/Leadership, Prof Dev & Career/B/GM",Lecture,Wednesday,13:00:00,15:00:00,02:00:00,19-30,QA065 (LT),90,37,BMOL6
+"BUSI1702/Lecture/01-1 (BAHRM-6, BABMG-6)",BUSI1702/Organisational Decision Making/A/GM,Lecture,Wednesday,14:00:00,15:00:00,01:00:00,3-14,KW303 (LT),180,177,BMOL6
+BUSI1702/Tutorial/01-05 (BABMG-602),BUSI1702/Organisational Decision Making/A/GM,Tutorial,Wednesday,13:00:00,14:00:00,01:00:00,3-14,QA120,26,26,BMOL6
+
+BUSI1604/Skills/01-1 (MAIB-J),BUSI1604/Fdns of Scholarship & Res/B/GM,Skills,Monday,13:00:00,14:00:00,01:00:00,19-30,QA280 (LT),90,103,IES15
+BUSI1604/Skills/01-1 (MAIB-S),BUSI1604/Fdns of Scholarship & Res/A/GM,Skills,Monday,13:00:00,14:00:00,01:00:00,3-14,SL101 (LT),77,71,IES15
+
+BUSI1604/Skills/01-2 (c),BUSI1604/Fdns of Scholarship & Res/B/GM,Skills,Wednesday,15:00:00,16:00:00,01:00:00,19-30,KW002 (LT),90,0,IES15
+BUSI1604/Tutorial/01-09 <12>,BUSI1604/Fdns of Scholarship & Res/A/GM,Tutorial,Wednesday,14:00:00,16:00:00,02:00:00,12,D115 West (IT Lab/Classroom),12,12,IES15
+"BUSI1604/Tutorial/01-09 <3, 5-11, 13>",BUSI1604/Fdns of Scholarship & Res/A/GM,Tutorial,Wednesday,14:00:00,16:00:00,02:00:00,"3, 5-11, 13",QA175,12,12,IES15
+"BUSI1604/Tutorial/01-09 <4, 14>",BUSI1604/Fdns of Scholarship & Res/A/GM,Tutorial,Wednesday,14:00:00,16:00:00,02:00:00,"4, 14",QM060,12,12,IES15
+
+BUSI1604/Tutorial/01-01,BUSI1604/Fdns of Scholarship & Res/A/GM,Tutorial,Wednesday,09:00:00,11:00:00,02:00:00,3-14,10_B004 (Classroom),13,12,BMOL8
+BUSI1695/Tutorial/01-5 (BABMG-J402),BUSI1695/International Bus Environment/B/GM,Tutorial,Wednesday,10:00:00,11:00:00,01:00:00,19-30,QM169,30,23,BMOL8
+
+BUSI1604/Tutorial/01-02 (MAIB-A101b),BUSI1604/Fdns of Scholarship & Res/C/GM,Tutorial,Wednesday,09:00:00,11:00:00,02:00:00,34-45,10_B004 (Classroom),15,17,IB6
+BUSI1604/Tutorial/01-02 (MAIB-J01b),BUSI1604/Fdns of Scholarship & Res/B/GM,Tutorial,Wednesday,09:00:00,11:00:00,02:00:00,19-30,QM167,15,12,IB6
+
+BUSI1604/Tutorial/01-03 (MAIB-A102b) <34-42>,BUSI1604/Fdns of Scholarship & Res/C/GM,Tutorial,Wednesday,09:00:00,11:00:00,02:00:00,34-42,SL109,15,17,IB10
+BUSI1604/Tutorial/01-03 (MAIB-A102b) <43-44>,BUSI1604/Fdns of Scholarship & Res/C/GM,Tutorial,Wednesday,09:00:00,11:00:00,02:00:00,43-44,KW016,15,17,IB10
+BUSI1604/Tutorial/01-03 (MAIB-A102b) <45>,BUSI1604/Fdns of Scholarship & Res/C/GM,Tutorial,Wednesday,09:00:00,11:00:00,02:00:00,45,QA010,15,17,IB10
+
+"BUSI1604/Tutorial/01-04 (MAIB-A103a) <34-42, 45>",BUSI1604/Fdns of Scholarship & Res/C/GM,Tutorial,Wednesday,11:00:00,13:00:00,02:00:00,"34-42, 45",SL109,15,17,IES11
+BUSI1604/Tutorial/01-04 (MAIB-A103a) <43-44>,BUSI1604/Fdns of Scholarship & Res/C/GM,Tutorial,Wednesday,11:00:00,13:00:00,02:00:00,43-44,QM167,15,17,IES11
+BUSI1604/Tutorial/01-04 (MAIB-J03a),BUSI1604/Fdns of Scholarship & Res/B/GM,Tutorial,Wednesday,11:00:00,13:00:00,02:00:00,19-30,QM167,15,12,IES11
+
+"BUSI1604/Tutorial/01-06 <03-07, 11-14>",BUSI1604/Fdns of Scholarship & Res/A/GM,Tutorial,Wednesday,09:00:00,11:00:00,02:00:00,"3-7, 11-14",QM068,11,10,BMOL3
+BUSI1604/Tutorial/01-06 <08-10>,BUSI1604/Fdns of Scholarship & Res/A/GM,Tutorial,Wednesday,09:00:00,11:00:00,02:00:00,8-10,QM063,11,10,BMOL3
+BUSI1628/Tutorial/01-5 (SB) <19-30>,BUSI1628/Managing Orgs & Indiv/G/GM,Tutorial,Wednesday,10:00:00,11:00:00,01:00:00,19-30,SL105,30,0,BMOL3
+
+"BUSI1604/Tutorial/01-07 <03-04, 07>",BUSI1604/Fdns of Scholarship & Res/A/GM,Tutorial,Wednesday,14:00:00,16:00:00,02:00:00,"3-4, 7",QA063,12,10,BMOL20
+"BUSI1604/Tutorial/01-07 <05-06, 09-14>",BUSI1604/Fdns of Scholarship & Res/A/GM,Tutorial,Wednesday,14:00:00,16:00:00,02:00:00,"5-6, 9-14",QA265,12,10,BMOL20
+BUSI1604/Tutorial/01-07 <08>,BUSI1604/Fdns of Scholarship & Res/A/GM,Tutorial,Wednesday,14:00:00,16:00:00,02:00:00,8,QM060,12,10,BMOL20
+
+BUSI1618/Tutorial/01-3 <19-22> (BAAF-303),BUSI1618/Introduction to Management/B/GM,Tutorial,Wednesday,11:00:00,12:00:00,01:00:00,19-22,QA020,20,21,IB5
+BUSI1618/Tutorial/01-3 <23-30> (BAAF-303),BUSI1618/Introduction to Management/B/GM,Tutorial,Wednesday,11:00:00,12:00:00,01:00:00,23-30,QA044,20,21,IB5
+INDU1033/Tutorial/01-02 (MAIB-A2) <03-06>,INDU1033/Managing Across Cultures/A/GM,Tutorial,Wednesday,10:00:00,12:00:00,02:00:00,3-6,QM168,38,38,IB5
+INDU1033/Tutorial/01-02 (MAIB-A2) <07-14>,INDU1033/Managing Across Cultures/A/GM,Tutorial,Wednesday,10:00:00,12:00:00,02:00:00,7-14,QA274,38,38,IB5
+
+BUSI1622/Lecture/01-1 (SB),BUSI1622/Dissertation (LOG+TPT)/J/GM,Lecture,Thursday,18:00:00,21:00:00,03:00:00,22-23,QA280 (LT),90,0,OSP1
+BUSI1622/Lecture/01-2 (MALSCM),BUSI1622/Dissertation (LOG+TPT)/J/GM,Lecture,Thursday,16:00:00,19:00:00,03:00:00,22-23,KW016,36,36,OSP1
+
+BUSI1624/Class Test/In-Class Test 01 (MALSCM),BUSI1624/Supply Chain Sim & Modelling/B/GM,Class Test,Friday,09:00:00,12:00:00,03:00:00,30,"QM446-ZB (IT Lab),QM446-ZC (IT Lab),QM446-ZD (IT Lab),QM446-ZE (IT Lab),QM446-ZF (IT Lab),QM446-ZG (IT Lab),QM446-ZH (IT Lab)",90,37,OSP9
+BUSI1624/Lecture/01 (MALSCM),BUSI1624/Supply Chain Sim & Modelling/B/GM,Lecture,Friday,10:00:00,12:00:00,02:00:00,19-29,QA280 (LT),90,37,OSP9
+
+"BUSI1628/Lecture/01 (BABMG-4J) <19-30, 34-39, 41-45>",BUSI1628/Managing Orgs & Indiv/G/GM,Lecture,Wednesday,09:00:00,10:00:00,01:00:00,"19-30, 34-39, 41-45",KW303 (LT),150,69,BMOL16
+BUSI1628/Lecture/01 (BABMG-4J) <40>,BUSI1628/Managing Orgs & Indiv/G/GM,Lecture,Wednesday,09:00:00,10:00:00,01:00:00,40,11_0003 (LT),150,69,BMOL16
+
+BUSI1628/Tutorial/01-1 <34-36>,BUSI1628/Managing Orgs & Indiv/G/GM,Tutorial,Wednesday,10:00:00,11:00:00,01:00:00,34-36,SL107,23,23,New Staff
+BUSI1628/Tutorial/01-1 <37-43>,BUSI1628/Managing Orgs & Indiv/G/GM,Tutorial,Wednesday,10:00:00,11:00:00,01:00:00,37-43,D115 West (IT Lab/Classroom),30,23,New Staff
+BUSI1628/Tutorial/01-1 <44-45>,BUSI1628/Managing Orgs & Indiv/G/GM,Tutorial,Wednesday,10:00:00,11:00:00,01:00:00,44-45,QM369,23,23,New Staff
+
+"BUSI1632/Tutorial/01-08 <19-21, 23-30>",BUSI1632/Negotiations/B/GM,Tutorial,Friday,11:00:00,12:00:00,01:00:00,"19-21, 23-30",QA175,30,30,IB5
+BUSI1632/Tutorial/01-08 <22>,BUSI1632/Negotiations/B/GM,Tutorial,Friday,11:00:00,12:00:00,01:00:00,22,QA210,30,30,IB5
+BUSI1646/Tutorial/01-1,BUSI1646/Understanding Int Bus 1/A/GM,Tutorial,Friday,10:00:00,12:00:00,02:00:00,3-14,SL001,27,22,IB5
+
+"BUSI1633/Tutorial/01-05 <03, 05-11, 13-14>",BUSI1633/Strategy for Managers/A/GM,Tutorial,Friday,11:00:00,13:00:00,02:00:00,"3, 5-11, 13-14",QA165,24,24,BMOL4
+"BUSI1633/Tutorial/01-05 <04, 12>",BUSI1633/Strategy for Managers/A/GM,Tutorial,Friday,11:00:00,13:00:00,02:00:00,"4, 12",QA063,24,24,BMOL4
+
+BUSI1633/Tutorial/01-10 (BABEI-6) <03-07>,BUSI1633/Strategy for Managers/A/GM,Tutorial,Thursday,15:00:00,17:00:00,02:00:00,3-7,SL009,35,35,BMOL18
+BUSI1633/Tutorial/01-10 (BABEI-6) <08-14>,BUSI1633/Strategy for Managers/A/GM,Tutorial,Thursday,15:00:00,17:00:00,02:00:00,8-14,SL006,35,35,BMOL18
+
+BUSI1637/Tutorial/01-06,BUSI1637/Discover Project Management/A/GM,Tutorial,Tuesday,15:00:00,16:00:00,01:00:00,3-14,QM168,28,26,IB11
+BUSI1637/Tutorial/01-1 (BABMG-J403),BUSI1637/Discover Project Management/B/GM,Tutorial,Tuesday,15:00:00,16:00:00,01:00:00,19-30,QM169,14,22,IB11
+
+BUSI1647/Lecture/01 (BABMG-3),BUSI1647/Understanding Int Bus 2/B/GM,Lecture,Monday,09:00:00,10:00:00,01:00:00,19-30,KW003,47,40,IB11
+BUSI1695/Tutorial/01-08 (SB),BUSI1695/International Bus Environment/A/GM,Tutorial,Monday,09:00:00,10:00:00,01:00:00,3-14,QM368,30,0,IB11
+BUSI1712/ITLab/01-02 (BABMK-502a),BUSI1712/Project Planning & Management/B/GM,ITLab,Monday,09:00:00,11:00:00,02:00:00,19-30,"QM446-ZD (IT Lab),QM446-ZE (IT Lab)",20,22,IB11
+BUSI1712/ITLab/01-04 (BABMK-501b) <19>,BUSI1712/Project Planning & Management/B/GM,ITLab,Monday,09:00:00,11:00:00,02:00:00,19,"QM446-ZF (IT Lab),QM446-ZG (IT Lab)",20,17,IB11
+
+"MARK1266/Tutorial/01-05 (BABMG-S408, S410) <19, 21-23, 25>",MARK1266/Princ of Mktg in a Global Cont/B/GM,Tutorial,Monday,17:00:00,18:00:00,01:00:00,"19, 21-23, 25",QA165,32,31,HRM5
+"MARK1266/Tutorial/01-05 (BABMG-S408, S410) <20, 24>",MARK1266/Princ of Mktg in a Global Cont/B/GM,Tutorial,Monday,17:00:00,18:00:00,01:00:00,"20, 24",KW003,32,31,HRM5
+"MARK1266/Tutorial/01-05 (BABMG-S408, S410) <26-30>",MARK1266/Princ of Mktg in a Global Cont/B/GM,Tutorial,Monday,17:00:00,18:00:00,01:00:00,26-30,QA039,32,31,HRM5
+
+BUSI1742/Workshop/01  (BABMGLE-5) <34-40>,BUSI1742/Operations & Resource Mgt/C/GM,Workshop,Tuesday,10:00:00,13:00:00,03:00:00,34-40,QA020,18,18,HPL3
+BUSI1742/Workshop/01  (BABMGLE-5) <41>,BUSI1742/Operations & Resource Mgt/C/GM,Workshop,Tuesday,10:00:00,13:00:00,03:00:00,41,QA238,18,18,HPL3
+
+BUSI1693/Lecture/01 (MAIB-J) <34-42>,BUSI1693/Global Networks & Innovation/C/GM,Lecture,Wednesday,14:00:00,15:00:00,01:00:00,34-42,QM268,70,24,IB4
+BUSI1693/Lecture/01 (MAIB-J) <43-45>,BUSI1693/Global Networks & Innovation/C/GM,Lecture,Wednesday,14:00:00,15:00:00,01:00:00,43-45,QM245,30,24,IB4
+
+BUSI1710/Tutorial/01-01,BUSI1710/International Business Project/J/GM,Tutorial,Monday,15:00:00,16:00:00,01:00:00,19-30,QM060,8,9,OSP6
+BUSI1816/Workshop/01-5 <8>,BUSI1816/Global Busi' & Sustainability/A/GM,Workshop,Monday,15:00:00,17:00:00,02:00:00,8,QM069,21,21,OSP6
+
+BUSI1712/ITLab/01-10 (BABF-501),BUSI1712/Project Planning & Management/B/GM,ITLab,Wednesday,11:00:00,13:00:00,02:00:00,19-30,10_B006 (IT Lab/Classroom),33,33,OSP6
+BUSI1715/Tutorial/01-06 (BABMG-507),BUSI1715/Organisational Analysis & Perf/A/GM,Tutorial,Wednesday,11:00:00,12:00:00,01:00:00,3-14,KW016,29,28,OSP6
+
+BUSI1715/Lecture/01-1 (BABMG-5),BUSI1715/Organisational Analysis & Perf/A/GM,Lecture,Wednesday,17:00:00,18:00:00,01:00:00,3-14,11_0003 (LT),331,317,OSP7
+RESE1170/Tutorial/01-09 (BABMG-510),RESE1170/Business Research Methods/B/GM,Tutorial,Wednesday,16:00:00,18:00:00,02:00:00,"19-25, 30",QA238,29,27,OSP7
+
+BUSI1715/Tutorial/01-01 (BABMG-501),BUSI1715/Organisational Analysis & Perf/A/GM,Tutorial,Wednesday,09:00:00,10:00:00,01:00:00,3-14,QM168,29,26,OSP5
+RESE1170/ITLab/01-02 (BABMG-503),RESE1170/Business Research Methods/B/GM,ITLab,Wednesday,09:00:00,11:00:00,02:00:00,26-29,D165 (Classroom/IT),29,28,OSP5
+RESE1170/Tutorial/01-03 (BABMG-503),RESE1170/Business Research Methods/B/GM,Tutorial,Wednesday,09:00:00,11:00:00,02:00:00,"19-25, 30",D166 (Classroom/IT),28,28,OSP5
+
+BUSI1715/Tutorial/01-04 (BABMG-505),BUSI1715/Organisational Analysis & Perf/A/GM,Tutorial,Wednesday,09:00:00,10:00:00,01:00:00,3-14,11_2008 (Seminar),28,28,BMOL1
+RESE1170/ITLab/01-11 (BABMG-501),RESE1170/Business Research Methods/B/GM,ITLab,Wednesday,09:00:00,11:00:00,02:00:00,26-29,"QM446-ZF (IT Lab),QM446-ZG (IT Lab)",27,24,BMOL1
+RESE1170/Tutorial/01-01 (BABMG-501),RESE1170/Business Research Methods/B/GM,Tutorial,Wednesday,09:00:00,11:00:00,02:00:00,"19-25, 30",11_2016 (Seminar),28,24,BMOL1
+
+BUSI1744/Workshop/01 (BABMGLE- 601) <11-14>,BUSI1744/Managerial Strat & Ldrshp Dev/B/GM,Workshop,Monday,10:00:00,13:00:00,03:00:00,11-14,QA138,21,21,"BMOL4,BMOL6"
+BUSI1744/Workshop/01 (BABMGLE- 601) <19-22>,BUSI1744/Managerial Strat & Ldrshp Dev/B/GM,Workshop,Monday,10:00:00,13:00:00,03:00:00,19-22,QA220,21,21,"BMOL4,BMOL6"
+
+"BUSI1746/Workshop/01 (BABMGLE-6) <34, 36-37, 39-40>",BUSI1746/Final Year Project/C/GM,Workshop,Monday,10:00:00,13:00:00,03:00:00,"34, 36-37, 39-40",QA274,17,21,OSP16
+BUSI1746/Workshop/01 (BABMGLE-6) <41>,BUSI1746/Final Year Project/C/GM,Workshop,Monday,10:00:00,13:00:00,03:00:00,41,QA210,17,21,OSP16
+
+BUSI1783/Lecture/01 (MSBA-J) <34>,BUSI1783/Business Analytics Project/P/GM,Lecture,Tuesday,15:00:00,17:00:00,02:00:00,34,KW303 (LT),90,58,SA5
+BUSI1783/Lecture/01 (MSBA-J) <42>,BUSI1783/Business Analytics Project/P/GM,Lecture,Tuesday,15:00:00,17:00:00,02:00:00,42,SL101 (LT),90,58,SA5
+BUSI1783/Lecture/02 (MSBA-S),BUSI1783/Business Analytics Project/G/GM,Lecture,Tuesday,15:00:00,17:00:00,02:00:00,34-35,KW303 (LT),93,88,SA5
+
+BUSI1816/Workshop/01-1 (MAIB-A102),BUSI1816/Global Busi' & Sustainability/C/GM,Workshop,Monday,10:00:00,12:00:00,02:00:00,"34, 36-37, 39-45",QM368,30,29,New Staff
+"COMP1919/IT Lab/01-05 <03-08, 11-14>",COMP1919/Programming Funds for BA/A/GM,ITLab,Monday,09:00:00,11:00:00,02:00:00,"3-8, 11-14",D264 (IT Lab),25,0,New Staff
+COMP1919/IT Lab/01-05 <09-10>,COMP1919/Programming Funds for BA/A/GM,ITLab,Monday,09:00:00,11:00:00,02:00:00,9-10,QA020,25,0,New Staff
+
+BUSI1819/Tutorial 01-02 <34>,BUSI1819/International Busi' Simulation/C/GM,Tutorial,Wednesday,16:00:00,18:00:00,02:00:00,34,QA010,26,26,HPL1
+BUSI1819/Tutorial 01-02 <35-36>,BUSI1819/International Busi' Simulation/C/GM,Tutorial,Wednesday,15:00:00,17:00:00,02:00:00,35-36,QA075 (Moot Rm/Classroom),26,26,HPL1
+BUSI1819/Tutorial 01-02 <37-44>,BUSI1819/International Busi' Simulation/C/GM,Tutorial,Wednesday,15:00:00,17:00:00,02:00:00,37-44,D165 (Classroom/IT),30,26,HPL1
+
+COMP1916/IT Lab/01-04 (MSBA-S02),COMP1916/Data Mining for Business/B/GM,ITLab,Tuesday,09:00:00,11:00:00,02:00:00,19-30,QM015 (IT Lab),24,23,SA9
+STAT1051/IT Lab/01-03,STAT1051/Business Statistics/A/GM,ITLab,Tuesday,09:00:00,11:00:00,02:00:00,41699,KW216 (IT Lab),23,21,SA9
+
+"BUSI1650/Workshop/01-1 <3-7, 9>",BUSI1650/Global Integrative Project 1/A/GM,Workshop,Tuesday,11:00:00,13:00:00,02:00:00,"3-7, 9",QA075 (Moot Rm/Classroom),31,30,L1
+BUSI1650/Workshop/01-1 <8>,BUSI1650/Global Integrative Project 1/A/GM,Workshop,Tuesday,11:00:00,13:00:00,02:00:00,8,QA220,31,30,L1
+"BUSI1650/Workshop/03 (BAIB-4, BAIBL-4)",BUSI1650/Global Integrative Project 1/A/GM,Workshop,Tuesday,11:00:00,13:00:00,02:00:00,10-14,QA065 (LT),60,58,L1
+
+COMP1930/IT Lab/01 (MSBA-J01) <34>,COMP1930/Machine Learning/C/GM,ITLab,Friday,09:00:00,11:00:00,02:00:00,34,D215 East (Trading Room),20,28,SA5
+COMP1930/IT Lab/01 (MSBA-J01) <35-45>,COMP1930/Machine Learning/C/GM,ITLab,Friday,09:00:00,11:00:00,02:00:00,35-45,D215 East (Trading Room),20,28,SA5
+
+"INDU1011/Seminar/01-03 <3-7, 9-14>",INDU1011/Leadership & Enterprise/A/GM,Seminar,Tuesday,15:00:00,17:00:00,02:00:00,"3-7, 9-14",QA075 (Moot Rm/Classroom),25,21,BMOL22
+INDU1011/Seminar/01-03 <8>,INDU1011/Leadership & Enterprise/A/GM,Seminar,Tuesday,15:00:00,17:00:00,02:00:00,8,SL007,25,21,BMOL22
+
+INDU1033/Programme Session (Skills)/01-01 <03-10>,INDU1033/Managing Across Cultures/A/GM,One-Off Booking,Tuesday,17:00:00,19:00:00,02:00:00,3-10,KW315 (LT),241,239,AFE1
+INDU1033/Programme Session (Skills)/01-01 <11-14>,INDU1033/Managing Across Cultures/A/GM,One-Off Booking,Tuesday,17:00:00,19:00:00,02:00:00,11-14,KW302 (LT),241,239,AFE1
+
+INDU1033/Tutorial/01-03 (MAIB-A2),INDU1033/Managing Across Cultures/A/GM,Tutorial,Wednesday,15:00:00,17:00:00,02:00:00,3-14,KW003,18,18,BMOL5
+INDU1033/Tutorial/01-3,INDU1033/Managing Across Cultures/B/GM,Tutorial,Wednesday,16:00:00,18:00:00,02:00:00,19-30,QA120,22,25,BMOL5
+
+MARK1264/Workshop/01 (BABMGLE-4),MARK1264/Mktg Principles & Sales Mgt/C/GM,Workshop,Wednesday,10:00:00,13:00:00,03:00:00,34-40,QA020,40,15,HPL5
+MARK1264/Workshop/03 (BABMGLE-4),MARK1264/Mktg Principles & Sales Mgt/C/GM,Workshop,Wednesday,10:00:00,13:00:00,03:00:00,41,QA220,42,15,HPL5
+
+MARK1138/Workshop/01 <19-30>,MARK1138/Purchasing and Distribution/D/GM,Workshop,Tuesday,12:00:00,14:00:00,02:00:00,19-30,D115 West (IT Lab/Classroom),25,24,OSP14
+MARK1138/Workshop/01 <3-14>,MARK1138/Purchasing and Distribution/D/GM,Workshop,Tuesday,12:00:00,14:00:00,02:00:00,3-14,QM145,25,24,OSP14
+
+"FINA1141/Tutorial/01-04 (MAIB-A204) <3-7, 9-14>",FINA1141/International Business Finance/A/GM,Tutorial,Thursday,18:00:00,19:00:00,01:00:00,"3-7, 9-14",QA238,26,26,AFE17
+FINA1141/Tutorial/01-04 (MAIB-A204) <8>,FINA1141/International Business Finance/A/GM,Tutorial,Thursday,18:00:00,19:00:00,01:00:00,8,SL001,26,26,AFE17
+
+BUSI1819/Tutorial 01-03 <34-42>,BUSI1819/International Busi' Simulation/C/GM,Tutorial,Wednesday,15:00:00,17:00:00,02:00:00,34-42,SL006,30,25,HPL3
+BUSI1819/Tutorial 01-03 <43-44>,BUSI1819/International Busi' Simulation/C/GM,Tutorial,Wednesday,15:00:00,17:00:00,02:00:00,43-44,QA265,30,25,HPL3
+BUSI1819/Tutorial 01-03 <45>,BUSI1819/International Busi' Simulation/C/GM,Tutorial,Wednesday,15:00:00,17:00:00,02:00:00,45,QA010,30,25,HPL3
+
+COMP1918/Tutorial/01-04 <03-05>,COMP1918/Ethical & Legal Aspects of BA/A/GM,Tutorial,Thursday,11:00:00,12:00:00,01:00:00,3-5,QA039,23,21,L1
+COMP1918/Tutorial/01-04 <06-14>,COMP1918/Ethical & Legal Aspects of BA/A/GM,Tutorial,Thursday,11:00:00,12:00:00,01:00:00,6-14,QM069,23,21,L1
+
+MARK1294/IT Lab/01-01,MARK1294/Web and Social Media Analytics/B/GM,ITLab,Tuesday,09:00:00,11:00:00,02:00:00,19-30,D264 (IT Lab),23,22,SA4
+STAT1051/IT Lab/01-02,STAT1051/Business Statistics/A/GM,ITLab,Tuesday,09:00:00,11:00:00,02:00:00,41699,KW215 (IT Lab),23,22,SA4
+
+"RESE1031/Tutorial/01-09 <03, 05, 07, 09, 11, 13>",RESE1031/Thematic Independent Studies/D/GM,Tutorial,Thursday,09:00:00,10:00:00,01:00:00,"3, 5, 7, 9, 11, 13",QM169,30,0,SA13
+"RESE1031/Tutorial/01-09 <19, 21, 23, 25, 27, 29>",RESE1031/Thematic Independent Studies/D/GM,Tutorial,Thursday,09:00:00,10:00:00,01:00:00,"19, 21, 23, 25, 27, 29",QM169,30,0,SA13
+RESE1031/Tutorial/01-10,RESE1031/Thematic Independent Studies/D/GM,Tutorial,Thursday,09:00:00,10:00:00,01:00:00,"4, 6, 8, 10, 12, 14, 20, 22, 24, 26, 28, 30",QM169,17,17,SA13
+
+RESE1170/ITLab/01-05 (BABMG-505),RESE1170/Business Research Methods/B/GM,ITLab,Wednesday,14:00:00,16:00:00,02:00:00,26-29,D264 (IT Lab),30,29,SA6
+RESE1170/ITLab/01-10 (SB),RESE1170/Business Research Methods/B/GM,ITLab,Wednesday,14:00:00,16:00:00,02:00:00,26-29,"QM446-ZD (IT Lab),QM446-ZE (IT Lab)",30,0,SA6
+"RESE1170/Tutorial/01-05 <19-20, 22-25, 30> (BABMG-505)",RESE1170/Business Research Methods/B/GM,Tutorial,Wednesday,14:00:00,16:00:00,02:00:00,"19-20, 22-25, 30",11_2017 (Seminar),26,27,SA6
+RESE1170/Tutorial/01-05 <21> (BABMG-505),RESE1170/Business Research Methods/B/GM,Tutorial,Wednesday,14:00:00,16:00:00,02:00:00,21,QA020,26,27,SA6
+
+RESE1170/ITLab/01-13 (BAHRM-5),RESE1170/Business Research Methods/B/GM,ITLab,Monday,17:00:00,19:00:00,02:00:00,26-29,10_B006 (IT Lab/Classroom),40,41,HRM1
+RESE1170/Tutorial/01-13 (BAHRM-5),RESE1170/Business Research Methods/B/GM,Tutorial,Monday,16:00:00,18:00:00,02:00:00,"19-25, 30",QA138,40,43,HRM1
+
