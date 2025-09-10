@@ -1,0 +1,9 @@
+ipdb==0.13.13
+ipython==9.4.0
+pip==25.2
+rich==14.1.0
+pyexcel==0.7.3
+pandas==2.3.1
+pyexcel-xlsx==0.6.1
+bson==0.5.10
+pymongo==4.14.0
